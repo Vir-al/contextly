@@ -1,0 +1,55 @@
+# Core Slack Bot Framework
+slack-bolt
+slack-sdk
+
+# LangChain Core Components
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# AWS Bedrock Support
+langchain-aws
+boto3
+
+# LangGraph for Workflow Management
+langgraph
+
+# MCP (Model Context Protocol) Support
+langchain-mcp-adapters
+
+# ChromaDB for Vector Storage (Much easier than Qdrant!)
+chromadb
+langchain-chroma
+
+# Google AI for Embeddings and Generation
+google-generativeai
+
+# Document Processing
+pypdf
+python-docx
+
+# Jira Integration (Optional)
+atlassian-python-api
+
+# Notion API Integration
+notion-client
+
+# Environment and Utilities
+python-dotenv
+pydantic
+
+# Async Support
+asyncio
+aiohttp
+
+# Text Processing
+tiktoken
+
+
+# FastAPI for REST API
+fastapi
+uvicorn[standard]
+
+# Document processing for unstructured data
+unstructured
